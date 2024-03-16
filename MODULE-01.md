@@ -20,16 +20,15 @@
 
    En 1981, Xerox a finalement mis sur le marché une machine basée sur la technologie du PARC. Elle s'appelait le Xerox Star, mais c'était un échec. Techniquement, elle était très sous-performante, lente et trop chère. De plus, le marketing hésitant et maladroit n'a pas aidé. Beaucoup de développeurs, voyant plus de potentiel chez Apple et d'autres entreprises émergentes de PC, ont commencé à quitter le PARC en 1980 ; l'échec du Star a accéléré ce processus. Malgré avoir été à l'origine de l'interface graphique utilisateur (GUI) et de plusieurs autres technologies clés de l'informatique moderne, Xerox n'en a jamais tiré de profit.
 
-   - Exemple : L'interface simple et conviviale de Google Search, qui a contribué à sa popularité mondiale.  
-  
-     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnhGJNhODx0ESYFCWUVQaQ.gif">  
-     <em> Évolution de Google </em>
-
      ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/30333dfd-c6f1-454a-a62c-300248219bbb)  
      <em> The Star interface pioneered the desktop metaphor that would be ubiquitous in later GUIs </em>
 
      En 1981, IBM lance son premier ordinateur personnel, qui n'a pas de souris ni d'interface graphique avancée. Cependant, son entrée sur le marché annonce un changement majeur à venir. En 1982, Sun Microsystems lance le premier ordinateur Unix à succès, posant les bases des postes de travail techniques. Ces machines, bien que chères, ont popularisé l'interface graphique et ont finalement éclipsé les ordinateurs traditionnels à interface en ligne de commande. En 1984, Apple révolutionne avec le Macintosh, popularisant encore plus l'interface graphique. L'Amiga aurait pu être un concurrent sérieux, mais des problèmes de gestion l'ont empêché de réaliser son plein potentiel.
 
+   - Exemple : L'interface simple et conviviale de Google Search, qui a contribué à sa popularité mondiale.  
+  
+     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnhGJNhODx0ESYFCWUVQaQ.gif">  
+     <em> Évolution de Google </em>
 
 5. **Types d'Applications** :
    - Les applications ont évolué pour s'adapter à divers besoins, devenant plus accessibles grâce à la diversification des plateformes.
