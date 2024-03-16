@@ -31,6 +31,7 @@
      <em> Évolution de Google </em>  
 
      [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g9r1A-NQb8c/0.jpg)](https://www.youtube.com/watch?v=g9r1A-NQb8c)
+     <em> Voir la vidéo <em>
 
 5. **Types d'Applications** :
    - Les applications ont évolué pour s'adapter à divers besoins, devenant plus accessibles grâce à la diversification des plateformes.
