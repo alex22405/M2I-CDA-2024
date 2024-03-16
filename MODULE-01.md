@@ -15,6 +15,9 @@
 
 3. **Concepts Fondamentaux d'UI/UX, Web Design et Graphisme** :
    - Avec l'essor d'Internet dans les années 1990 et 2000, l'importance de l'interface utilisateur (UI) et de l'expérience utilisateur (UX) est devenue cruciale.
+
+   ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/8685b898-9c66-42b4-b5c4-40e554ddd4d4)
+
    - Exemple : L'interface simple et conviviale de Google Search, qui a contribué à sa popularité mondiale.  
   
      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnhGJNhODx0ESYFCWUVQaQ.gif">
