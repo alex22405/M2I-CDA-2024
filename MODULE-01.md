@@ -18,23 +18,25 @@
 
    ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/8685b898-9c66-42b4-b5c4-40e554ddd4d4)
 
+   En 1981, Xerox a finalement mis sur le marché une machine basée sur la technologie du PARC. Elle s'appelait le Xerox Star, mais c'était un échec. Techniquement, elle était très sous-performante, lente et trop chère. De plus, le marketing hésitant et maladroit n'a pas aidé. Beaucoup de développeurs, voyant plus de potentiel chez Apple et d'autres entreprises émergentes de PC, ont commencé à quitter le PARC en 1980 ; l'échec du Star a accéléré ce processus. Malgré avoir été à l'origine de l'interface graphique utilisateur (GUI) et de plusieurs autres technologies clés de l'informatique moderne, Xerox n'en a jamais tiré de profit.
+
    - Exemple : L'interface simple et conviviale de Google Search, qui a contribué à sa popularité mondiale.  
   
      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnhGJNhODx0ESYFCWUVQaQ.gif">
 
 
-4. **Types d'Applications** :
+5. **Types d'Applications** :
    - Les applications ont évolué pour s'adapter à divers besoins, devenant plus accessibles grâce à la diversification des plateformes.
    - Exemple : La transition des applications de bureau traditionnelles vers des applications basées sur le Web, comme Google Drive, offrant une accessibilité depuis n'importe quel appareil connecté à Internet.
 
-5. **Architecture des Applications** :
+6. **Architecture des Applications** :
    - L'architecture logicielle a évolué pour répondre aux exigences croissantes de performances, de scalabilité et de disponibilité.
    - Exemple : La transition des architectures monolithiques vers des architectures basées sur les microservices, comme observé dans l'évolution des applications de streaming telles que Spotify.
 
-6. **Sécurité des Applications** :
+7. **Sécurité des Applications** :
    - Avec la montée en puissance des cyberattaques, la sécurité des applications est devenue une préoccupation majeure pour les développeurs et les entreprises.
    - Exemple : La cyberattaque contre Equifax en 2017, qui a compromis les données personnelles de millions de personnes en raison de failles de sécurité dans leurs applications.
 
-7. **Applications en tant que Service (aaS)** :
+8. **Applications en tant que Service (aaS)** :
    - L'adoption croissante des modèles d'application en tant que service a transformé la façon dont les entreprises consomment et déploient des logiciels.
    - Exemple : L'utilisation de Salesforce en tant que service de gestion de la relation client (CRM) par de nombreuses entreprises pour rationaliser leurs opérations de vente et de marketing.
