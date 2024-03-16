@@ -30,6 +30,8 @@
      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnhGJNhODx0ESYFCWUVQaQ.gif">  
      <em> Évolution de Google </em>
 
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/g9r1A-NQb8c?si=ZIOAM0kd8H19N-_x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 5. **Types d'Applications** :
    - Les applications ont évolué pour s'adapter à divers besoins, devenant plus accessibles grâce à la diversification des plateformes.
    - Exemple : La transition des applications de bureau traditionnelles vers des applications basées sur le Web, comme Google Drive, offrant une accessibilité depuis n'importe quel appareil connecté à Internet.
