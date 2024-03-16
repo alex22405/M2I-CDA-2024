@@ -1,7 +1,6 @@
 | # | Module                                      | Objectifs                                                                                                                                                                         | Contenu                                                                                                                                                                                   |
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Introduction aux Applications Informatiques | 1. Comprendre les concepts fondamentaux des applications informatiques. <br> 2. Identifier les différents types d'applications et leurs caractéristiques.                         | - Introduction aux applications informatiques. <br> - Définition des données, des traitements et des interfaces. <br> - Types d'applications : client lourd, client léger, Web, mobile. <br> - Architecture des applications : 2-tiers, n-tiers. <br> - Sécurité des applications : notions de base. |  
-Voici une structure de cours complète en intégrant les concepts d'application en tant que service (aaS) ainsi que d'autres modèles d'application :
 
 ### Module 1 : Introduction aux Applications Informatiques
 
