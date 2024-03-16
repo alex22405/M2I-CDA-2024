@@ -28,6 +28,7 @@
      ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/30333dfd-c6f1-454a-a62c-300248219bbb)  
      <em> The Star interface pioneered the desktop metaphor that would be ubiquitous in later GUIs </em>
 
+     En 1981, IBM lance son premier ordinateur personnel, qui n'a pas de souris ni d'interface graphique avancée. Cependant, son entrée sur le marché annonce un changement majeur à venir. En 1982, Sun Microsystems lance le premier ordinateur Unix à succès, posant les bases des postes de travail techniques. Ces machines, bien que chères, ont popularisé l'interface graphique et ont finalement éclipsé les ordinateurs traditionnels à interface en ligne de commande. En 1984, Apple révolutionne avec le Macintosh, popularisant encore plus l'interface graphique. L'Amiga aurait pu être un concurrent sérieux, mais des problèmes de gestion l'ont empêché de réaliser son plein potentiel.
 
 
 5. **Types d'Applications** :
