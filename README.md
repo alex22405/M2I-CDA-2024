@@ -74,7 +74,3 @@ Bien sûr, voici une proposition de tableau et de liste de modules pour comprend
 3. Intégration de technologies émergentes : intelligence artificielle, IoT.
 4. Optimisation des performances et de l'évolutivité.
 5. Bonnes pratiques de développement et méthodologies agiles.
-
----
-
-Cette structure de syllabus propose une progression logique, commençant par les fondamentaux et évoluant vers des sujets plus avancés. Vous pouvez ajouter ou ajuster des modules en fonction des besoins spécifiques de votre programme d'études.
