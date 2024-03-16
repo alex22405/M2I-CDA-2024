@@ -28,9 +28,9 @@
    - Exemple : L'interface simple et conviviale de Google Search, qui a contribué à sa popularité mondiale.  
   
      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnhGJNhODx0ESYFCWUVQaQ.gif">  
-     <em> Évolution de Google </em>
+     <em> Évolution de Google </em>  
 
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/g9r1A-NQb8c?si=ZIOAM0kd8H19N-_x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 5. **Types d'Applications** :
    - Les applications ont évolué pour s'adapter à divers besoins, devenant plus accessibles grâce à la diversification des plateformes.
