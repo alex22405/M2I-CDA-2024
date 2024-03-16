@@ -34,6 +34,9 @@
    - Les applications ont évolué pour s'adapter à divers besoins, devenant plus accessibles grâce à la diversification des plateformes.
    - Exemple : La transition des applications de bureau traditionnelles vers des applications basées sur le Web, comme Google Drive, offrant une accessibilité depuis n'importe quel appareil connecté à Internet.
 
+     ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/f25018ad-f179-415b-babc-1aab9886a462)
+
+
 6. **Architecture des Applications** :
    - L'architecture logicielle a évolué pour répondre aux exigences croissantes de performances, de scalabilité et de disponibilité.
    - Exemple : La transition des architectures monolithiques vers des architectures basées sur les microservices, comme observé dans l'évolution des applications de streaming telles que Spotify.
