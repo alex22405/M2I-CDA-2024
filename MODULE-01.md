@@ -23,6 +23,7 @@
    - Exemple : L'interface simple et conviviale de Google Search, qui a contribué à sa popularité mondiale.  
   
      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnhGJNhODx0ESYFCWUVQaQ.gif">  
+     <em> Évolution de Google </em>
 
      ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/30333dfd-c6f1-454a-a62c-300248219bbb)  
      <em> The Star interface pioneered the desktop metaphor that would be ubiquitous in later GUIs </em>
