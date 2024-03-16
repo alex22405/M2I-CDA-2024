@@ -4,12 +4,6 @@ Bien sûr, voici le contenu structuré et numéroté dans un tableau :
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Introduction aux Applications Informatiques | 1. Comprendre les concepts fondamentaux des applications informatiques. <br> 2. Identifier les différents types d'applications et leurs caractéristiques.                         | - Introduction aux applications informatiques. <br> - Définition des données, des traitements et des interfaces. <br> - Types d'applications : client lourd, client léger, Web, mobile. <br> - Architecture des applications : 2-tiers, n-tiers. <br> - Sécurité des applications : notions de base. |
 
-
-
-Bien sûr, voici une proposition de tableau et de liste de modules pour comprendre le fonctionnement d'une application informatique, sa construction et son développement, ainsi que les différents types d'applications :
-
----
-
 ### Module 1 : Introduction aux Applications Informatiques
 
 **Objectifs** :
