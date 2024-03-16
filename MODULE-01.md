@@ -15,6 +15,9 @@
    - Exemples concrets : 
      - Dans une application de médias sociaux comme Facebook, les données peuvent inclure des profils d'utilisateurs, des messages et des images, tandis que les traitements peuvent inclure la publication de messages, la recherche de personnes et la recommandation de contenu.
      - Dans un système de gestion de bases de données, les données peuvent être stockées dans des tables, et les traitements peuvent inclure des requêtes pour récupérer, modifier ou supprimer des données.
+    
+     ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/ed2832b0-9a3b-4d53-b2da-98d2528e053f)
+
 
 3. **Concepts Fondamentaux d'UI/UX, Web Design et Graphisme**
    - Exploration des concepts d'UI/UX, en mettant l'accent sur la conception centrée sur l'utilisateur pour une expérience utilisateur optimale.
