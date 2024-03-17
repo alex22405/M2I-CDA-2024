@@ -40,6 +40,9 @@
 6. **Architecture des Applications** :
    - L'architecture logicielle a évolué pour répondre aux exigences croissantes de performances, de scalabilité et de disponibilité.
    - Exemple : La transition des architectures monolithiques vers des architectures basées sur les microservices, comme observé dans l'évolution des applications de streaming telles que Spotify.
+  
+     ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/43d98445-b5f3-465d-aab0-b0fef51e6950)
+
 
 7. **Sécurité des Applications** :
    - Avec la montée en puissance des cyberattaques, la sécurité des applications est devenue une préoccupation majeure pour les développeurs et les entreprises.
