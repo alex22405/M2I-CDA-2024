@@ -42,6 +42,8 @@
    - Exemple : La transition des architectures monolithiques vers des architectures basées sur les microservices, comme observé dans l'évolution des applications de streaming telles que Spotify.
   
      ![image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/43d98445-b5f3-465d-aab0-b0fef51e6950)
+[image](https://github.com/alex22405/M2I-CDA-SCHILTIGHEIM-2024/assets/122653346/21272de2-befa-49c5-b0a7-e95e140d523a)
+
 
 
 7. **Sécurité des Applications** :
