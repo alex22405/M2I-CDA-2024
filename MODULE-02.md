@@ -1,4 +1,3 @@
-Bien sûr, voici une partie complète sur la notion de compilation, les langages compilés et interprétés, ainsi que les paradigmes de programmation :
 
 ---
 
