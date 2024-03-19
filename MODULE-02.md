@@ -1,5 +1,3 @@
-Bien sûr, voici une partie complète sur la notion de compilation, les langages compilés et interprétés, ainsi que les paradigmes de programmation :
-
 ---
 
 ## La notion de compilation
@@ -78,5 +76,3 @@ Les paradigmes de programmation définissent des approches distinctes pour la r�
 Chaque paradigme a ses propres principes et techniques, adaptés à différents types de problèmes et de situations de programmation.
 
 ---
-
-Cette partie de la présentation offre une vue d'ensemble détaillée sur la compilation, l'interprétation, et les différents paradigmes de programmation. Les exemples de codes en PHP et en Java peuvent être intégrés dans les sections pertinentes pour illustrer les concepts discutés.
